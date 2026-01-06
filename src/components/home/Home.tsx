@@ -1,7 +1,6 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "../../../@/components/ui/tabs"
 import CSS from "csstype";
 
-import './Home.css'
 import { Link } from "react-router-dom";
 
 const Home = () => {
